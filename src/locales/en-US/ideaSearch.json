@@ -1,0 +1,12 @@
+{
+  "mainTitle.ideaSearch": "Describe Your Idea",
+  "describing.keywordTitle.ideaSearch": "Enter keywords describing your startup's product/service",
+  "helperText.searchExample.ideaSearch": "Example : Logistics aggregator or food delivery app [max 10 keyword]",
+  "tabs.startup.ideaSearch": "Startups",
+  "tabs.news.ideaSearch": "News",
+  "tabs.presentations.ideaSearch": "Presentations",
+  "tabs.videos.ideaSearch": "Videos",
+  "tabs.patents.ideaSearch": "Patents",
+  "tabs.researchPapers.ideaSearch": "Research Papers",
+  "noData.message.ideaSearch": "No Data"
+}

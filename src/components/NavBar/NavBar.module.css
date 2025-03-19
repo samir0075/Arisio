@@ -1,0 +1,55 @@
+.NavExternal {
+  /* background-image: linear-gradient(to right, rgba(196, 43, 50, 1), rgba(35, 33, 86, 1)); */
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.NavInternal {
+  width: 100vw;
+  display: flex !important;
+  flex-direction: row;
+  justify-content: space-around !important;
+  align-items: center !important;
+}
+
+.Button {
+  /* font-size: 1rem !important; */
+  background: #ff6002 !important;
+  color: #ffffff !important;
+  font-family: Inter !important;
+  font-weight: 600 !important;
+  /* padding: 8px 20px !important; */
+}
+
+.ButtonExternal {
+  width: 20vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Logo {
+  font-size: 1.5rem !important;
+  color: #ffffff !important;
+  font-family: Inter !important;
+  font-weight: 600 !important;
+  cursor: pointer;
+}
+
+.Link {
+  text-decoration: none;
+  color: #08287a;
+  font-size: 1.3rem;
+  font-family: Inter;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.ActiveLink {
+  text-decoration: none;
+  color: rgba(108, 25, 62, 1) !important;
+  font-family: Inter;
+  font-weight: 600;
+}

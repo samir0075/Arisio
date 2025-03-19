@@ -1,0 +1,28 @@
+{
+  "mandateStepperForm.step1.card.heading": "ما هو عنوان تذكرتك الاستثمارية؟",
+  "mandateStepperForm.step1.card.inputTextField.validation": "يجب أن يتراوح طول العنوان بين 2 و80 حرفًا، ويجب ألا يبدأ أو ينتهي بمسافة",
+  "mandateStepperForm.step2.card.heading": "إخبار بمعلومة عن هذه التذكرة الاستثمارية.",
+  "mandateStepperForm.step2.card.inputTextField.placeholder": "اكتب وصفا ........",
+  "mandateStepperForm.step2.card.inputTextField.validation": "يجب أن يتراوح طول الوصف بين 4 و300 حرفًا",
+  "mandateStepperForm.step3.card.heading": "قم بتحميل أو اختيار صورة مصغرة لولايتك.",
+  "mandateStepperForm.step3.card.upload.button.text": "رفع ملف:",
+  "mandateStepperForm.step3.card.upload.warning.message": "رفع صورة مصغرة (حجمها بحد أقصى 2 ميجا بايت)",
+  "mandateStepperForm.step4.card.datePicker.label": "تاريخ البدء",
+  "mandateStepperForm.step4.card.datePicker2.label": "تاريخ الانتهاء",
+  "mandateStepperForm.step4.card.heading": "تحديد جدول زمني للتذكرة الاستثمارية الخاصة بك",
+
+  "mandateStepperForm.card.mandateType.label": "نوع التفويض",
+  "mandateStepperForm.card.mandateType.label.placeHolder": "اختر نوع التفويض",
+
+  "mandateStepperForm.card.Description": "الوصف",
+  "mandateStepperForm.card.EndDate.label": "تاريخ الانتهاء",
+  "mandateStepperForm.card.startDate.label": "تاريخ البدء",
+
+  "mandateStepperForm.card.save.button": "حفظ",
+  "mandateStepperForm.card.back.button": "خلف",
+  "mandateStepperForm.card.finish.button": "ينهي",
+  "mandateStepperForm.card.next.button": "التالي",
+  "mandateStepperForm.card.launch.button": "يطلق",
+
+  "mandateStepperForm.final.tagLine": "تأكد من أن تفاصيل ولايتك مثالية من خلال معاينتها قبل الإرسال."
+}

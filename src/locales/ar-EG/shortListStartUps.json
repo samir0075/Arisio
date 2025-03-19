@@ -1,0 +1,19 @@
+{
+  "shortListStartUp.table.header.column1": "اسم الشركة الناشئة",
+  "shortListStartUp.table.header.column2": "اسم التفويض",
+  "shortListStartUp.table.header.column3": "دولة",
+  "shortListStartUp.table.header.column4": "مدينة",
+  "shortListStartUp.table.header.column5": "عدد الموظفين",
+  "shortListStartUp.table.header.column6": "التمويل الأخير",
+  "shortListStartUp.table.header.column7": "موقع إلكتروني",
+  "shortListStartUp.table.header.column8": "التكنولوجيا",
+  "shortListStartUp.table.header.column9": "مرحلة البدء",
+  "shortListStartUp.main.button.text": "أضف المرشحات",
+
+  "newTableMainComponentShortList.table.button.text2": "إغلاق",
+  "newTableMainComponentShortList.table.button.text3": "إرسال",
+  "newTableMainComponentShortList.table.button3.text": "جدولة اجتماع",
+  "newTableMainComponentShortList.table.button2.text": "رسالة",
+  "newTableMainComponentShortList.table.noActiveData.text1": "لم يتم العثور على تفويض نشط، من فضلك",
+  "newTableMainComponentShortList.table.noActiveData.text2": "إنشاء تفويض جديد"
+}

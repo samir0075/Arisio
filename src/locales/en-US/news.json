@@ -1,0 +1,33 @@
+{
+  "news.allNews": "All News",
+  "news.ownNews": "Own News",
+  "news.addNews": "Submit News",
+  "news.card.pendingStatus": "Pending",
+  "news.card.approvedStatus": "Approved",
+  "news.card.rejectStatus": "Rejected",
+  "news.noData": "There are no news to show",
+  "news.button.backToNews": "Back to news",
+
+  "detailNews.category": "Category :",
+  "detailNews.country": "Country :",
+  "detailNews.heading.recentNews": "Recent News",
+
+  "addnews.updateNews": "Update News",
+  "addnews.feild.heading": "Heading",
+  "addnews.field.newsImage": "News Image",
+  "addnews.field.newsImage.tagLine": "This will be displayed on News Content",
+  "addnews.field.uploadImage.button": "Upload Image",
+  "addnews.field.newsType": "News type",
+  "addnews.field.Country": "Country",
+
+  "addnews.placeholder.Country": "Select country",
+  "addnews.filter.Country": "All Country",
+  "addnews.button.readmore": "Read More",
+  "addnews.placeholder.heading": "News Heading",
+  "addnews.placeholder.newtype": "Select news type",
+  "addnews.placeholder.desc": "News Description",
+
+  "addnews.field.description": "Description",
+  "addnews.field.description.tagLine": "Write a short introduction about news",
+  "addnews.waring.tagLine": "Your news will be automatically deleted 3 days after creation"
+}

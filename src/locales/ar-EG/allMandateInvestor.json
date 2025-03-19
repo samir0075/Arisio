@@ -1,0 +1,25 @@
+{
+  "allMandate.mandate.card.content.text3": "هذه التذكرة الاستثمارية لم تُطلق بعد",
+  "allMandate.mandate.card.content.rejected": "وهذا التفويض مرفوض.",
+  "allMandate.mandate.card.content.text2": "هذه التذكرة الاستثمارية مغلقة",
+  "allMandate.mandate.card.content.text1": "نشر تذكرتك الاستثمارية",
+  "allMandate.mandate.card.content.closingDate": "تاريخ إغلاق التذكرة الاستثمارية",
+  "allMandate.mandate.card.content.startingDate": "تاريخ بدء التذكرة الاستثمارية",
+  "allMandate.mandate.status.label6": "مغلق",
+  "allMandate.mandate.status.label5": "غير مكتمل",
+  "allMandate.mandate.status.label4": "بانتظار الموافقة",
+  "allMandate.mandate.status.label3": "مغلق",
+  "allMandate.mandate.status.label2": "يفتح",
+  "allMandate.mandate.status.label1": "مرفوض",
+  "allMandate.filter.label2": "الحالة",
+  "allMandate.filter.label1": "البلد",
+  "allMandate.mandate.top.label5": "غير مكتمل",
+  "allMandate.mandate.top.label4": "الموافقات المعلقة",
+  "allMandate.mandate.top.label3": "مغلق",
+  "allMandate.mandate.top.label2": "يفتح",
+  "allMandate.mandate.top.label1": "مرفوض",
+
+  "allMandate.mandate.filter.alltechno": "كل التكنولوجيا",
+  "allMandate.mandate.filter.allcountry": "كل البلاد",
+  "allMandate.mandate.filter.allstatus": "كل الحالة"
+}

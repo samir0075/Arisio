@@ -1,0 +1,8 @@
+{
+    "quickQuestionsForm.step3.card.heading":"لا تهتم بالسؤال عن اسم الشركة الناشئة أو مكانها أو وصفها؛ ولا بيانات التواصل أو ملف فريق العمل. نحن سنحصل لك على تلك المعلومات في كل الأحوال.",
+    "quickQuestionsForm.step3.form.textField.placeholder":"تجهيز أسئلتك.",
+    "quickQuestionsForm.step3.form.textField.helperText":"يجب أن يتراوح طول السؤال بين 4 و150 حرفًا",
+    "quickQuestionsForm.step3.form.textField.helperText.maxQuestion":"الحد الأقصى المسموح به هو 5 أسئلة",
+    "quickQuestionsForm.step3.card.submit.button.add":"يضيف",
+    "quickQuestionsForm.step3.card.submit.button.update":"تحديث"
+}

@@ -1,0 +1,15 @@
+{
+  "pitches.status.closed": "CLOSED",
+  "pitches.status.open": "OPEN",
+  "pitches.applicationStatus": "Status:",
+  "pitches.Shortlisted": "Shortlisted",
+  "pitches.Submitted": "Submitted",
+  "pitches.Incomplete": "Incomplete",
+  "pitches.Watchlisted": "Watchlisted",
+  "pitches.Rejected": "Rejected",
+  "pitches.ViewDetails": "View Details",
+
+  "pitches.pitching.backToMandates.button.title": "Back to mandates",
+  "pitches.pitching.pitchStartDate.title": "Pitch Start Date :",
+  "pitches.pitching.pitchEndDate.title": "Pitch End Date :"
+}

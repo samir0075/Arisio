@@ -1,0 +1,10 @@
+{
+  "addFilterModal.card.submit.button.text": "Apply Filters",
+  "addFilterModal.card.select.startUp.placeholder": "Select startup stage",
+  "addFilterModal.card.startUp.label": "StartUp Stage",
+  "addFilterModal.card.select.technology.placeholder": "Select your technology",
+  "addFilterModal.card.technology.label": "Technology",
+  "addFilterModal.card.select.country.placeholder": "Select your country",
+  "addFilterModal.card.country.label": "Country",
+  "addFilterModal.card.heading": "Search By companies's filter"
+}

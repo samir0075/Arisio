@@ -1,0 +1,89 @@
+.dialogExternal {
+  display: flex;
+}
+
+/* .loginExternal {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1);
+} */
+
+.inputExternal {
+  display: flex;
+  flex-direction: column;
+}
+.inputField {
+  margin-top: 10px;
+  color: #111927 !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+}
+
+.forgotButton {
+  /* margin-top: 10px; */
+  background-color: #fff !important;
+
+  border: none;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif !important;
+  cursor: pointer;
+  color: rgba(108, 25, 62, 1) !important;
+  padding-top: 0px;
+}
+
+.loginButton {
+  margin-top: 10px;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+  padding: 10px;
+  border: none;
+  color: #fff !important;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.loginButton:hover {
+  background-color: rgba(108, 25, 62, 1) !important;
+}
+
+.subHeading {
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  color: rgba(108, 25, 62, 1) !important;
+  opacity: 1px;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+.error {
+  color: red;
+}
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+.scrollbar::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Make the thumb transparent */
+}
+
+/* Hide scrollbar for IE, Edge */
+.scrollbar {
+  -ms-overflow-style: none; /* Hide the scrollbar */
+}
+
+.scrollbar::-ms-scrollbar-thumb {
+  background-color: transparent; /* Make the thumb transparent */
+}
+
+/* Mobile Screen  */
+
+@media screen and (max-width: 800px) {
+  .loginImageSection {
+    display: none;
+  }
+}

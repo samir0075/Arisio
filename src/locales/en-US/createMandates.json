@@ -1,0 +1,18 @@
+{
+    "createMandate.card.content":"Get ready to explore the power of our platform!",
+    "createMandate.card.content2":"Pick a technology you want to find startups in. Don't worry, you can always add more technologies later. (By the way, these are the hottest technologies today.)",
+    "createMandate.card2.content":"Add more technologies",
+    "createMandate.card2.form.label1":"Technologies",
+    "createMandate.card2.form.label2":"Domain",
+    "createMandate.card2.form.label3":"Description",
+    "createMandate.card2.form.label1.placeholder":"Enter your Keyword",
+    "createMandate.card2.form.label2.placeholder":"Enter domain for technologies",
+    "createMandate.card2.form.label3.placeholder":"Enter Description for the technologies",
+    "createMandate.card3.content":"Now choose an application area in",
+    "createMandate.card3.content2":"Did you know that our engine, in real-time, has picked the hottest application areas in this technology area for you? Now go ahead and explore more below.",
+    "createMandate.card3.checkbox.label":"Select All",
+    "createMandate.card3.checkbox2.label":"CHOOSE SPACE",
+    "createMandate.submit.button.text":"Continue",
+    "mandateStepperForm.forMoreThan2MB.card.message.":"File should be less than 2MB"
+
+}

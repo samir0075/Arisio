@@ -1,0 +1,16 @@
+{
+  "payment.heading1": "Existing Plan Billing",
+  "payment.heading2": "Your application is currently on the {planName} plan",
+  "payment.heading3": "Higher plans offer higher message request limit, additional features, and much more.",
+  "payment.button.cancel": "Cancel Subscription",
+  "payment.button.upgrade": "Upgrade Subscription",
+  "payment.billing.header": "Billing Summary",
+  "payment.billing.tableheader1": "Payment .Id",
+  "payment.billing.tableheader2": "Billing Date",
+  "payment.billing.tableheader3": "Plan Name",
+  "payment.billing.tableheader4": "Amount",
+  "payment.billing.tableheader7": "Discount",
+
+  "payment.billing.tableheader5": "Status",
+  "payment.billing.tableheader6": "Action"
+}

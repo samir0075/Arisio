@@ -1,0 +1,219 @@
+.stack {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: #808080;
+}
+.subHeading {
+  font-weight: 700;
+  font-size: 26px;
+  color: #393939;
+  opacity: 1px;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+.text {
+  color: #808080;
+  padding-bottom: 15px;
+}
+.internalCard {
+  opacity: 1;
+  font-weight: 600;
+  color: #898989;
+}
+.formHeading {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #808080;
+  text-align: center;
+}
+.formtext {
+  font-family: "Calibri";
+  font-weight: 700;
+  margin-top: 20px;
+  color: #393939;
+  font-size: 22px;
+}
+
+.formTextWOBold {
+  font-weight: 500 !important;
+  font-family: "Calibri";
+  margin-top: 20px;
+  color: #393939;
+  font-size: 17px;
+  text-align: center;
+}
+
+.formSubtext {
+  font-family: "Calibri-Italic";
+  font-weight: 300;
+  font-size: 20px;
+  color: #808080;
+  padding-bottom: 10px;
+}
+.tabStyle {
+  font-family: "Calibri";
+  font-weight: 700;
+  font-size: 20px;
+  color: #39c6f3;
+  border-bottom: 4px solid #1d4c9e;
+  bottom: 0;
+  content: "";
+  left: 0;
+  padding-bottom: 17px;
+}
+.gridStyle {
+  display: flex;
+  margin-top: 40px;
+}
+.childGrid {
+  max-width: 50%;
+  height: 130px;
+  /* width: 100%; */
+  /* min-height: 1px; */
+  margin: 0 15px;
+}
+.fileInput {
+  width: 100%;
+  margin-top: 55px;
+  min-height: 200px;
+  height: 100%;
+}
+.preferenceForm {
+  width: 100%;
+  margin-top: 5px;
+  text-align: center;
+}
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
+.btnStyle {
+  display: flex;
+  justify-content: flex-end;
+}
+.questionCard {
+  padding: 10px;
+}
+.iconBtn {
+  display: flex;
+  justify-content: space-evenly;
+}
+.inputExternal {
+  display: flex;
+  flex-direction: column;
+}
+.showCard {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 1px 0px 3px 0px #dddddd;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 20px;
+}
+.cardHeader {
+  font-family: "Calibri";
+  font-weight: 600;
+  font-size: 18px;
+  color: #393939;
+}
+.cardText {
+  font-family: "Calibri";
+  font-size: 16px;
+  color: #808080;
+}
+.stackTitle {
+  font-family: "Calibri";
+  font-weight: 700;
+  font-size: 20px;
+  color: #393939;
+  margin-left: 22px !important;
+}
+.showBtn {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 20px;
+}
+.key {
+  opacity: 1;
+  font-family: "Calibri";
+  font-weight: 300;
+  font-size: 16px;
+  color: #000000;
+  letter-spacing: 0px;
+}
+.value {
+  opacity: 1;
+  font-family: "Calibri";
+  font-weight: 600;
+  font-size: 16px;
+  color: #39c6f3;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+}
+.modalHeader {
+  opacity: 1;
+  font-family: "Calibri";
+  font-weight: 600 !important;
+  font-size: 18px;
+  color: #393939;
+  letter-spacing: 0px;
+}
+.finalPageHeading {
+  font-family: "Calibri";
+  margin-top: 20px;
+  color: #393939;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.finalPageCard {
+  margin: 20px 200px;
+  background-color: #ffffff;
+  box-shadow: 1px 0px 3px 0px #dddddd;
+  border-radius: 10px;
+  padding: 15px;
+  height: 430px;
+}
+.manageText {
+  font-family: "Calibri";
+  font-weight: 700;
+  font-size: 20px;
+  color: #39c6f3;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.manageDesc {
+  font-family: "Calibri";
+  color: #808080;
+  margin-bottom: 20%;
+  text-align: center;
+}
+.btnStyle {
+  display: flex;
+  justify-content: center;
+}
+
+.inputField {
+  margin-top: 10px;
+  color: #6d6d6d !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+}
+.inputExternal {
+  display: flex;
+  flex-direction: column !important;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .gridStyle {
+    margin-top: 10px;
+  }
+}

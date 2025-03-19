@@ -1,0 +1,13 @@
+{
+"tableMainComponent.card.button.text1":"يوصى بها لـ؟",
+"tableMainComponent.card.button.text2":"دعوة لعرض  فكرة المشروع",
+"tableMainComponent.card.noData.text1":"لم يتم العثور على تفويض نشط",
+"tableMainComponent.card.noData.text2":"يرجى إنشاء تفويض جديد",
+"tableMainComponent.card2.invitePitch.close.button.text":"إغلاق",
+"tableMainComponent.card2.invitePitch.submit.button.text":"إرسال",
+"tableMainComponent.card3.content.noMatch":"لا توجد شركات ناشئة مطابقة.",
+"tableMainComponent.table.pagination.rowsPerPage":"صفوف لكل صفحة",
+"tableMainComponent.table.pagination.labelDisplay":"عرض",
+"tableMainComponent.table.pagination.labelDisplay2":"ل",
+"tableMainComponent.table.pagination.labelDisplay3":"نتائج"
+}

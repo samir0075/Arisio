@@ -1,0 +1,12 @@
+{
+    "mandateForm.main.heading":"Now set up your mandate form",
+    "mandateForm.tab.panel.tab1.card.heading":"Create your Mandate",
+    "mandateForm.tab.panel.tab1.card.heading2":"Mandate details will be published for startups to view",
+    "mandateForm.tab.panel.tab2.card.heading":"Set mandate preferences",
+    "mandateForm.tab.panel.tab2.card.heading2":"Add your short-answer questions here",
+    "mandateForm.tab.panel.stepper.button.next":"Next",
+    "mandateForm.tab.panel.stepper.button.back":"Back",
+    "mandateForm.tab.panel.tab1.heading":"CREATE A MANDATE",
+    "mandateForm.tab.panel.tab2.heading":"PREFERENCES",
+    "mandateForm.tab.panel.tab3.heading":"QUICK QUESTIONS"
+}

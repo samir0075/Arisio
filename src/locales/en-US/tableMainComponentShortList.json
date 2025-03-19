@@ -1,0 +1,13 @@
+{
+    "tableMainComponentShortList.table.noMatch.text":"There are no matching startups.",
+    "tableMainComponentShortList.table.button.text3":"Submit",
+    "tableMainComponentShortList.table.button.text2":"Close",
+    "tableMainComponentShortList.table.noActiveData.text2":"Create New Mandate",
+    "tableMainComponentShortList.table.noActiveData.text1":"No active mandate found, please",
+    "tableMainComponentShortList.table.button3.text":"Schedule Meeting",
+    "tableMainComponentShortList.table.button2.text":"Message",
+    "tableMainComponentShortList.table.button.text":"Invite to pitch",
+    "tableMainComponent.table.pagination.labelDisplay":"Showing",
+    "tableMainComponent.table.pagination.labelDisplay2":"of",
+    "tableMainComponent.table.pagination.labelDisplay3":"results"
+}

@@ -1,0 +1,28 @@
+{
+  "mandateStepperForm.step1.card.heading": "Mandate Title",
+  "mandateStepperForm.step1.card.inputTextField.validation": "Title must be between 2 and 80 characters long and should not start or end with a space",
+  "mandateStepperForm.step2.card.heading": "Tell us something about this mandate.",
+  "mandateStepperForm.step2.card.inputTextField.placeholder": "Write a description ........",
+  "mandateStepperForm.step2.card.inputTextField.validation": "Description must be between 4 and 300 characters long",
+  "mandateStepperForm.step3.card.heading": "Upload or pick a thumbnail for your mandate.",
+  "mandateStepperForm.step3.card.upload.button.text": "Upload file",
+  "mandateStepperForm.step3.card.upload.warning.message": "Upload thumbnail (upto 2MB)",
+
+  "mandateStepperForm.step4.card.heading": "Set the timeline for your mandate",
+  "mandateStepperForm.step4.card.datePicker.label": "Start date",
+  "mandateStepperForm.step4.card.datePicker2.label": "End date",
+
+  "mandateStepperForm.card.mandateType.label": "Mandate type",
+  "mandateStepperForm.card.mandateType.label.placeHolder": "Select mandate type",
+
+  "mandateStepperForm.card.Description": "Description",
+  "mandateStepperForm.card.EndDate.label": "End date",
+  "mandateStepperForm.card.startDate.label": "Start date",
+
+  "mandateStepperForm.card.save.button": "Save",
+  "mandateStepperForm.card.back.button": "Back",
+  "mandateStepperForm.card.finish.button": "Finish",
+  "mandateStepperForm.card.next.button": "Next",
+  "mandateStepperForm.card.launch.button": "Launch",
+  "mandateStepperForm.final.tagLine": "Ensure your mandate details are perfect by previewing them before submitting."
+}

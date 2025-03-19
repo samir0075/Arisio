@@ -1,0 +1,93 @@
+.NewsHeading {
+  font-size: 1.5rem !important;
+  text-align: center;
+  color: #fff;
+  font-weight: 700 !important;
+}
+
+.cardExternal {
+  background-color: #ffffff2b;
+  margin: 10px;
+  padding: 10px;
+  height: 170px;
+  border-radius: 10px;
+}
+
+.titleHeader {
+  font-size: 1rem !important;
+  color: #fff;
+  font-weight: 600 !important;
+  font-family: "Inter", sans-serif !important;
+}
+.description {
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  color: #fff;
+  height: 65px !important;
+  font-family: "Inter", sans-serif !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.readMore {
+  margin-top: 10px;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  font-family: "Inter", sans-serif !important;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.scrollButtonLeft {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.3);
+  border: none;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 92, 92, 0.4),
+    rgba(82, 52, 130, 0.4)
+  ) !important;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.scrollButtonRight {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 92, 92, 0.4),
+    rgba(82, 52, 130, 0.4)
+  ) !important;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.sliderArrow {
+  color: #fff;
+}

@@ -1,0 +1,13 @@
+{
+  "searchStartUps.addFilters.button.text": "Add filters",
+  "searchStartUps.page.heading": "Showing results for :",
+  "searchStartUps.page.heading.firstKey": "Company Name",
+  "searchStartUps.page.heading.secondKey": "Keywords",
+  "searchStartUps.table.header.column1": "Startup Name",
+  "searchStartUps.table.header.column2": "Country",
+  "searchStartUps.table.header.column3": "City",
+  "searchStartUps.table.header.column4": "Employee Count",
+  "searchStartUps.table.header.column5": "Last Funding",
+  "searchStartUps.table.header.column6": "Website",
+  "searchStartUps.table.header.column7": "Founded on"
+}

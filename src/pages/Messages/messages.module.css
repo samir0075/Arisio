@@ -1,0 +1,56 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+.header {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: #000000;
+}
+
+.messageHeader {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  color: #393939 !important;
+}
+.mandatesButton {
+  border-radius: 50% !important;
+  width: 40px !important;
+  height: 40px !important;
+  padding: 1px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1) !important;
+  background-color: rgba(138, 21, 56, 0.15) !important;
+}
+
+.backButtonColor {
+  color: rgba(134, 134, 134, 1);
+  cursor: pointer;
+  font-weight: 500 !important;
+}
+
+.dateColor {
+  color: #acabab;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+}
+
+.messagesOuter {
+  padding: 6px !important;
+  border-radius: 10px;
+  border: 2px solid #f5f5f5;
+}
+
+.username {
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  color: rgba(108, 25, 62, 1) !important;
+}

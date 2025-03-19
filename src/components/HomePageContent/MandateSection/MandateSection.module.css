@@ -1,0 +1,130 @@
+.mandateExternal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around !important;
+  /* padding-bottom: 20px; */
+  /* padding-top: 20px; */
+}
+.outerHeading {
+  font-size: 1.5rem !important;
+  text-align: center;
+  color: #fff;
+  font-weight: 700 !important;
+}
+.mandateOuter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+}
+.mandateTitle {
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: #8a1538 !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.mandateSubTitle {
+  margin-top: 5px !important;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  /* color: rgba(255, 255, 255, 0.58) !important; */
+  /* color: rgba(134, 134, 134, 1); */
+}
+.mandatePoints {
+  font-size: 0.8rem !important;
+  font-weight: 400 !important;
+  font-family: Inter, sans-serif;
+  /* color: #fff !important; */
+  padding-top: 5px;
+}
+
+.tech {
+  font-size: 0.8rem !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif;
+  color: #8a1538 !important;
+}
+
+.mandatesButton {
+  margin-top: 20px !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  font-family: Inter, sans-serif;
+  color: #fff !important;
+}
+
+.cardInternal {
+  max-width: 375px;
+  /* width: 100vw; */
+  /* padding: 20px; */
+  background-color: #ffffff2b !important;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* backdrop-filter: blur(10px); */
+}
+.scrollButtonLeft {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 92, 92, 0.4),
+    rgba(82, 52, 130, 0.4)
+  ) !important;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.scrollButtonRight {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 92, 92, 0.4),
+    rgba(82, 52, 130, 0.4)
+  ) !important;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.sliderArrow {
+  color: #fff;
+}
+@media screen and (max-width: 800px) {
+  .mandateOuter {
+    /* flex-direction: column !important; */
+    margin-top: 20px;
+  }
+
+  /* .outerHeading {
+    margin-top: 20px !important;
+  } */
+}

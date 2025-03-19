@@ -1,0 +1,112 @@
+.footerExternal {
+  display: flex !important;
+  justify-content: space-around;
+  align-items: flex-start;
+  min-height: 180px;
+  padding-top: 20px;
+  /* border-radius: 10px 10px 0px 0px; */
+  width: 98.9vw;
+  background-color: #ffffff2b;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+.Logo {
+  font-size: 1.5rem !important;
+  color: #ffffff !important;
+  font-family: Inter !important;
+  font-weight: 600 !important;
+}
+.socialExternal {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 50%;
+}
+.footerHeading {
+  color: #fff !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  font-family: "Inter", sans-serif !important;
+}
+.footerSubHeading {
+  color: #fff !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  font-family: "Inter", sans-serif !important;
+  margin-top: 10px !important;
+  /* line-height: 5px; */
+  cursor: pointer;
+}
+.Link {
+  text-decoration: none !important;
+  color: #fff !important;
+  font-family: Inter;
+  font-weight: 500;
+  cursor: pointer;
+}
+.outerHeading {
+  display: flex;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  font-size: 26px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+  padding-top: 10px;
+}
+
+.formExternal {
+  padding: 5px 40px;
+}
+
+.button {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+  background-color: rgba(108, 25, 62, 1);
+  padding: 5px 15px;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px 40px;
+}
+.button:hover {
+  background-color: rgba(108, 25, 62, 1);
+}
+.error {
+  color: red;
+}
+
+.termsHeader {
+  color: rgba(24, 25, 31, 1);
+  font-family: Inter;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 36px;
+}
+
+.termsInnerHeading {
+  color: rgba(108, 25, 62, 1) !important;
+  font-family: Inter;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.termsTypo {
+  color: rgba(24, 25, 31, 1);
+  font-family: Inter;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 800px) {
+  .footerExternal {
+    flex-direction: column !important;
+
+    align-items: flex-start;
+
+    padding-left: 20px;
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "event.allEvent": "جميع الأحداث",
+  "event.onwEvent": "حدث خاص",
+  "addEvent.addEvent.header": "إضافة الحدث",
+  "addEvent.filter.allCountry": "كل البلاد",
+  "addEvent.button.readmore": "اقرأ المزيد",
+
+  "detailEvent.backtoEvent": "العودة إلى الأحداث",
+  "detailEvent.header.venue": "المكان :",
+  "detailEvent.header.country": "دولة :",
+  "detailEvent.header.upcomingEvents": "الأحداث القادمة",
+  "detailEvent.header.approvalPendingEvents": "الأحداث المعلقة للموافقة",
+  "detailEvent.noEvents": "لا يوجد أحداث",
+  "detailEvent.enroll": "تسجل",
+
+  "addEvent.updateEvent.header": "تحديث الحدث",
+  "addEvent.field.header": "رأس الصفحة",
+  "addEvent.field.link": "وصلة",
+  "addEvent.field.venueType": "نوع المكان",
+  "addEvent.field.startDate": "تاريخ البدء",
+  "addEvent.field.endDate": "تاريخ الانتهاء",
+  "addEvent.field.eventImage": "صورة الحدث",
+  "addEvent.field.button": "تحميل الصورة",
+  "addEvent.field.uploadedImage": "تم تحميل الملف",
+  "addEvent.field.eventImage.tagLine": "سيتم عرض هذه الصورة كصورة الحدث الرئيسي",
+  "addEvent.field.Country": "دولة",
+  "addEvent.field.link.validation.error": "الرجاء إدخال عنوان URL صالح",
+
+  "addEvent.field.venue": "مكان",
+  "addEvent.field.content": "محتوى",
+  "addEvent.field.content.tagLine": "اكتب مقدمة قصيرة عن الحدث",
+
+  "addEvent.field.placeholder.eventName": "اسم الحدث",
+  "addEvent.field.placeholder.link": "https://www.abc.com",
+  "addEvent.field.placeholder.country": "اختر البلد",
+  "addEvent.field.placeholder.venueType": "اختر نوع المكان",
+  "addEvent.field.placeholder.venue": "اسم المكان",
+  "addEvent.field.placeholder.eventContent": "محتوى الحدث",
+  "addEvent.waring.tagLine": "سيتم حذف الحدث الخاص بك تلقائيًا بعد 7 أيام من إنشائه"
+}

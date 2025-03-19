@@ -1,0 +1,23 @@
+@media screen and (max-width: 1440px) {
+  .image {
+    width: 300px !important;
+    height: 150px !important;
+    object-fit: contain;
+  }
+
+  .heroText {
+    font-size: 0.75rem !important;
+  }
+
+  .points {
+    font-size: 0.75rem !important;
+    margin-top: 1px !important;
+  }
+  .textField {
+    margin-top: 10px !important;
+  }
+
+  .button {
+    padding: 10px 25px !important;
+  }
+}

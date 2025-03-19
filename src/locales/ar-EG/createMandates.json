@@ -1,0 +1,17 @@
+{
+    "createMandate.card.content":"الاستعداد لاكتشاف قدرة وتأثير منصتنا!",
+    "createMandate.card.content2":"اختيار تقنية ترغبونها لتجد شركات ناشئة فيها. لا تقلقوا، يمكنكم دائماً إضافة تقنيات أخرى لاحقاً. (بالمناسبة، هذه هي أحدث التقنيات اليوم)",
+    "createMandate.card2.content":"إضافة المزيد من التقنيات",
+    "createMandate.card2.form.label1":"التقنيات",
+    "createMandate.card2.form.label2":"اِختِصاص",
+    "createMandate.card2.form.label3":"وصف",
+    "createMandate.card2.form.label1.placeholder":"أدخل الكلمة الرئيسية الخاصة بك",
+    "createMandate.card2.form.label2.placeholder":"أدخل المجال للتقنيات",
+    "createMandate.card2.form.label3.placeholder":"أدخل الوصف للتقنيات",
+    "createMandate.card3.content":"اختيار مجال طلب ما الآن في <التقنية>",
+    "createMandate.card3.content2":"هل تعلم أن محرك بحثنا، في الوقت الفعلي، قد اختار لك أهم مجالات الطلب في هذا القطاع التقني؟ تابع الآن واستكشف المزيد أدناه.",
+    "createMandate.card3.checkbox.label":"اختر الكل",
+    "createMandate.card3.checkbox2.label":"اختر المساحة",
+    "createMandate.submit.button.text":"استمرار ",
+    "mandateStepperForm.forMoreThan2MB.card.message.":"يجب أن يكون حجم الملف أقل من 2 ميجابايت"
+}

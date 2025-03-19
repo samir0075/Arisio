@@ -1,0 +1,45 @@
+{
+  "event.allEvent": "All event",
+  "event.onwEvent": "Own event",
+  "addEvent.addEvent.header": "Add event",
+  "addEvent.filter.allCountry": "All Country",
+  "addEvent.button.readmore": "Read More",
+
+  "detailEvent.backtoEvent": "Back to Events",
+  "detailEvent.header.venue": "Venue ",
+  "detailEvent.header.country": "Country :",
+  "detailEvent.header.upcomingEvents": "Upcoming Events",
+  "detailEvent.header.approvalPendingEvents": "Approval Pending Events",
+  "detailEvent.noEvents": "There is no Events",
+  "detailEvent.enroll": "Enroll",
+
+  "addEvent.updateEvent.header": "Update event",
+  "addEvent.field.header": "Header",
+  "addEvent.field.link": "Link",
+  "addEvent.field.venueType": "Venue Type",
+
+  "addEvent.field.startDate": "Start date",
+  "addEvent.field.endDate": "End date",
+  "addEvent.field.eventImage": "Event Image",
+  "addEvent.field.button": "Upload Image",
+  "addEvent.field.uploadedImage": "Uploaded file",
+  "addEvent.field.eventImage.tagLine": "This will be displayed as main event image",
+  "addEvent.field.Country": "Country",
+  "addEvent.field.link.validation.error": "Please enter a valid URL ",
+
+  "addEvent.field.venue": "Venue",
+  "addEvent.field.venueLink": "Venue link",
+
+  "addEvent.field.content": "Content",
+  "addEvent.field.content.tagLine": "Write a short introduction about event",
+
+  "addEvent.field.placeholder.eventName": "Event Name",
+  "addEvent.field.placeholder.link": "https://www.abc.com",
+  "addEvent.field.placeholder.country": "Select country",
+  "addEvent.field.placeholder.venueType": "Select Venue Type",
+  "addEvent.field.placeholder.venueLink": "Venue link",
+
+  "addEvent.field.placeholder.venue": "Venue name",
+  "addEvent.field.placeholder.eventContent": "Event Content",
+  "addEvent.waring.tagLine": "Your event will be automatically deleted 7 days after it concludes."
+}

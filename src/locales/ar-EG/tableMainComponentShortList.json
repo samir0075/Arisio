@@ -1,0 +1,13 @@
+{
+    "tableMainComponentShortList.table.noMatch.text":"لا توجد شركات ناشئة مطابقة.",
+    "tableMainComponentShortList.table.button.text3":"يُقدِّم",
+    "tableMainComponentShortList.table.button.text2":"يغلق",
+    "tableMainComponentShortList.table.noActiveData.text2":"إنشاء ولاية جديدة",
+    "tableMainComponentShortList.table.noActiveData.text1":"لم يتم العثور على تفويض نشط، من فضلك",
+    "tableMainComponentShortList.table.button3.text":"يرتب موعد للاجتماع",
+    "tableMainComponentShortList.table.button2.text":"رسالة",
+    "tableMainComponentShortList.table.button.text":"دعوة إلى الملعب",
+    "tableMainComponent.table.pagination.labelDisplay":"عرض",
+    "tableMainComponent.table.pagination.labelDisplay2":"ل",
+    "tableMainComponent.table.pagination.labelDisplay3":"نتائج"
+}

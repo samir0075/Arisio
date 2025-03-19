@@ -1,0 +1,15 @@
+{
+  "pitches.status.closed": "مغلق",
+  "pitches.status.open": "يفتح",
+  "pitches.applicationStatus": " حالة الطلب:",
+  "pitches.Shortlisted": "القائمة المختصرة",
+  "pitches.Submitted": "مُقَدَّم",
+  "pitches.Incomplete": "غير مكتمل",
+  "pitches.Watchlisted": "مدرج في قائمة المراقبة",
+  "pitches.Rejected": "مرفوض",
+  "pitches.ViewDetails": "عرض التفاصيل",
+
+  "pitches.pitching.backToMandates.button.title": "العودة إلى الولايات",
+  "pitches.pitching.pitchStartDate.title": "تاريخ بدء العرض :",
+  "pitches.pitching.pitchEndDate.title": "تاريخ انتهاء العرض :"
+}

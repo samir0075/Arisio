@@ -1,0 +1,62 @@
+.cardExternal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around !important;
+  min-height: calc(100vh - 85px);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.outerHeading {
+  padding-bottom: 10px;
+  font-size: 26px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+}
+.cardOuter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+}
+.cardTitle {
+  font-size: 22px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+}
+.cartSubTitle {
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(134, 134, 134, 1);
+}
+.cardPoints {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1);
+  padding-top: 5px;
+}
+
+.cardsButton {
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1) !important;
+  background-color: rgba(138, 21, 56, 0.15) !important;
+  margin-top: 10px !important;
+  /* margin-right: 20px; */
+}
+
+@media screen and (max-width: 800px) {
+  .cardOuter {
+    flex-direction: column !important;
+    margin-top: 20px;
+  }
+
+  .outerHeading {
+    margin-top: 20px !important;
+  }
+}

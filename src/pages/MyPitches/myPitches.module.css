@@ -1,0 +1,160 @@
+.mandateExternal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around !important;
+  min-height: calc(100vh - 85px);
+  background-color: rgba(230, 183, 197, 0.15);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.outerHeading {
+  font-size: 36px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+  padding-bottom: 10px;
+}
+.mandateOuter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90vw;
+}
+.myPitchTitle {
+  /* height: 50px; */
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: #000000;
+  overflow: hidden;
+  max-width: 300px !important;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.mandateSubTitle {
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(134, 134, 134, 1);
+}
+.mandatePoints {
+  font-family: Inter, sans-serif;
+
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.dateColor {
+  color: rgba(134, 134, 134, 1);
+}
+
+.detailsDateColor {
+  color: rgba(69, 71, 72, 1);
+  padding-left: 10px;
+}
+
+.description {
+  color: rgba(69, 71, 72, 1);
+  font-weight: 500 !important;
+}
+
+.detailsSubHeading {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(134, 134, 134, 1);
+  margin-top: 10px !important;
+}
+.mandatesButton {
+  margin-top: 20px !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1) !important;
+  background-color: rgba(138, 21, 56, 0.15) !important;
+}
+
+.mandatesDisableButton {
+  margin-top: 20px !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: #ffffff !important;
+  background-color: #c7c8cc !important;
+}
+
+.cardInternal {
+  max-width: 375px;
+  padding: 20px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.mandateStatus {
+  color: #fff;
+  max-width: 200px;
+  margin: 5px;
+  text-align: center;
+  position: absolute;
+}
+
+.backButton {
+  margin-left: 10px !important;
+}
+
+.backButtonColor {
+  color: rgba(134, 134, 134, 1);
+  cursor: pointer;
+  font-weight: 500 !important;
+}
+
+.mandateDetailsOuter {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.heading {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(16, 24, 40, 1);
+  margin-top: 20px !important;
+}
+.techOuter {
+  padding-top: 10px;
+}
+.technologies {
+  font-weight: 600 !important;
+  max-width: 400px;
+  padding: 10px;
+  color: rgba(138, 21, 56, 1);
+  border-radius: 8px;
+  text-align: center;
+  background-color: rgba(138, 21, 56, 0.23);
+}
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.colorOfDate {
+  color: rgba(138, 21, 56, 1);
+  font-weight: 600 !important;
+}
+
+@media screen and (max-width: 800px) {
+  .mandateOuter {
+    flex-direction: column !important;
+    margin-top: 20px;
+  }
+
+  .outerHeading {
+    margin-top: 20px !important;
+  }
+}

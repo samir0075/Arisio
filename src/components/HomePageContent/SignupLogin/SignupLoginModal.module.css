@@ -1,0 +1,154 @@
+.dialogExternal {
+  display: flex;
+}
+
+/* .loginExternal {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1);
+} */
+
+.inputExternal {
+  display: flex;
+  flex-direction: column;
+}
+.inputField {
+  margin-top: 10px;
+  color: #111927 !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+}
+
+.forgotButton {
+  /* margin-top: 10px; */
+  background-color: #fff !important;
+
+  border: none;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif !important;
+  cursor: pointer;
+  color: rgba(108, 25, 62, 1) !important;
+  padding-top: 0px;
+}
+
+.loginButton {
+  margin-top: 10px !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+  background-color: rgba(108, 25, 62, 1) !important;
+  padding: 10px;
+  border: none;
+  color: #fff !important;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.loginButton:hover {
+  background-color: rgba(108, 25, 62, 1) !important;
+}
+
+.signInwithButton {
+  margin-top: 10px !important;
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  font-family: Inter, sans-serif !important;
+  padding-bottom: 8px;
+  border: none;
+  color: #fff !important;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.linkedInButton {
+  background-color: #4cb9e7 !important;
+}
+.linkedInButton:hover {
+  background-color: #4cb9e7 !important;
+}
+.googleButton {
+  background-color: rgba(51, 51, 51, 1) !important;
+}
+.googleButton:hover {
+  background-color: rgba(51, 51, 51, 1) !important;
+}
+
+.signUpButton {
+  background-color: #fff;
+  color: rgba(108, 25, 62, 1) !important;
+  font-weight: 600 !important;
+  padding: 10px;
+}
+
+.signUpText {
+  justify-content: center;
+  align-items: center;
+}
+
+.subHeading {
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  color: rgba(108, 25, 62, 1) !important;
+  opacity: 1px;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+.error {
+  color: red;
+}
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+.scrollbar::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Make the thumb transparent */
+}
+
+/* Hide scrollbar for IE, Edge */
+.scrollbar {
+  -ms-overflow-style: none; /* Hide the scrollbar */
+}
+
+.scrollbar::-ms-scrollbar-thumb {
+  background-color: transparent; /* Make the thumb transparent */
+}
+
+.customInput {
+  border-radius: 4px;
+}
+
+.MuiOutlinedInputRoot {
+  height: 20px; /* Adjust the height as needed */
+  border-radius: 4px;
+  padding: 6.5px; /* Adjust the padding as needed */
+}
+
+.MuiInputLabelRoot {
+  height: 13px; /* Match the input height */
+  line-height: 17px; /* Vertically center the label text */
+  /* font-size: 12px; Uncomment and adjust if needed */
+}
+
+/* To remove autofill styles */
+.input::-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px white inset;
+  -webkit-text-fill-color: black;
+}
+
+.input::-webkit-autofill:hover {
+  -webkit-box-shadow: 0 0 0 1000px white inset;
+  -webkit-text-fill-color: black;
+}
+
+/* Mobile Screen  */
+
+@media screen and (max-width: 800px) {
+  .loginImageSection {
+    display: none;
+  }
+}

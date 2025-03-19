@@ -1,0 +1,11 @@
+{
+  "mandateStatus.card.form.label2": "Extend Date",
+  "mandateStatus.card.form.label1.option2": "Open",
+  "mandateStatus.card.form.label1.option1": "Close",
+  "mandateStatus.card.content.heading2": "Mandate Closing Date :",
+  "mandateStatus.card.content.heading1": "Mandate Starting Date :",
+  "mandateStatus.back.button.text": "Back to mandates",
+  "mandateStatus.card.content.heading3": "Manage Mandate",
+  "mandateStatus.card.detail.heading": "Mandate Details",
+  "mandateStatus.card.detail.name": "Name :"
+}

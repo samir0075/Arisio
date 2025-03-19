@@ -1,0 +1,49 @@
+{
+  "side.nav.title.Mandates": "Mandates",
+  "side.nav.title.pendingApprovals": "Pending Approvals",
+  "side.nav.title.notifications": "Notifications",
+  "side.nav.title.notifications.subscripiton": "Subscription",
+  "side.nav.title.notifications.activities": "User Activities",
+  "side.nav.title.newsLetter": "News Letter",
+  "side.nav.title.newsLetter.add": "Add news letter",
+  "side.nav.title.newsLetter.publish": "Publish",
+  "side.nav.title.newsLetter.schedule": "Schedule",
+  "side.nav.title.newsLetter.archive": "Archive",
+
+  "side.nav.title.news": "News",
+  "side.nav.title.events": "Events",
+
+  "side.nav.title.allMandates": "My Mandates",
+  "side.nav.title.admin.allMandates": "All Mandates",
+
+  "side.nav.title.addStartups": "Add Startups",
+  "side.nav.title.createNewMandates": "Create New Mandates",
+  "side.nav.title.searchStartups": "Search Startups",
+  "side.nav.title.shortListStartups": "Shortlisted Startups",
+  "side.nav.title.Pitches": "Pitches",
+  "side.nav.title.Updates": "Updates",
+  "side.nav.title.ideaSearch": "Idea Search",
+  "side.nav.title.Profile": "Profile",
+  "side.nav.title.myProfile": "My Profile",
+
+  "side.nav.login.header": "Login",
+  "side.nav.login.text.startup": "STARTUP",
+  "side.nav.login.text.admin": "ADMIN",
+
+  "side.nav.login.text.investor": "INVESTOR",
+  "side.nav.login.text.contentWriter": "CONTENT WRITER",
+  "side.nav.login.text.individual": "INDIVIDUAL",
+
+  "side.nav.title.myUpdates": "My Updates",
+  "side.nav.title.myTransaction": "Plan transactions",
+
+  "side.nav.title.SignOut": "Sign out",
+  "pricing.header": "Pricing",
+  "pricing.chooseplan.header": "Choose Your Plan",
+  "pricing.tagline": "Choose your desired plan to access our content easily. We also offer special licensing options for our users.",
+
+  "pricing.label.startup": "STARTUP",
+  "pricing.label.investor": "INVESTOR/ENTERPRISE",
+  "pricing.button.chooseplan": "Choose plan",
+  "pricing.status.currentplan": "Current plan"
+}

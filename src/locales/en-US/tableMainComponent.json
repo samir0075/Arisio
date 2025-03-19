@@ -1,0 +1,13 @@
+{
+    "tableMainComponent.card.button.text1":"Recommend For?",
+    "tableMainComponent.card.button.text2":"Invite to pitch",
+    "tableMainComponent.card.noData.text1":"No active mandate found",
+    "tableMainComponent.card.noData.text2":", please Create New Mandate",
+    "tableMainComponent.card2.invitePitch.close.button.text":"Close",
+    "tableMainComponent.card2.invitePitch.submit.button.text":"Submit",
+    "tableMainComponent.card3.content.noMatch":"There are no matching startups.",
+    "tableMainComponent.table.pagination.rows":"Rows per",
+    "tableMainComponent.table.pagination.labelDisplay":"Showing",
+    "tableMainComponent.table.pagination.labelDisplay2":"of",
+    "tableMainComponent.table.pagination.labelDisplay3":"results"
+}

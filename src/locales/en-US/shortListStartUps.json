@@ -1,0 +1,19 @@
+{
+  "shortListStartUp.table.header.column1": "Startup Name",
+  "shortListStartUp.table.header.column2": "Mandate Name",
+  "shortListStartUp.table.header.column3": "Country",
+  "shortListStartUp.table.header.column4": "City",
+  "shortListStartUp.table.header.column5": "Employee Count",
+  "shortListStartUp.table.header.column6": "Last Funding",
+  "shortListStartUp.table.header.column7": "Website",
+  "shortListStartUp.table.header.column8": "Technology",
+  "shortListStartUp.table.header.column9": "StartUp Stage",
+  "shortListStartUp.main.button.text": "Add filters",
+
+  "newTableMainComponentShortList.table.button.text2": "Close",
+  "newTableMainComponentShortList.table.button.text3": "Submit",
+  "newTableMainComponentShortList.table.button3.text": "Schedule Meeting",
+  "newTableMainComponentShortList.table.button2.text": "Message",
+  "newTableMainComponentShortList.table.noActiveData.text1": "No active mandate found, please",
+  "newTableMainComponentShortList.table.noActiveData.text2": "Create New Mandate"
+}

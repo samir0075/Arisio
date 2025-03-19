@@ -1,0 +1,14 @@
+{
+  "payment.heading1": "فواتير الخطة الحالية",
+  "payment.heading2": "يخطط {planName} تطبيقك موجود حاليا على",
+  "payment.heading3": "تقدم الخطط الأعلى حدًا أعلى لطلب الرسائل، وميزات إضافية، والمزيد.",
+  "payment.button.cancel": "إلغاء الاشتراك",
+  "payment.button.upgrade": "ترقية الاشتراك",
+  "payment.billing.header": "ملخص الفواتير",
+  "payment.billing.tableheader1": "معرف الدفع",
+  "payment.billing.tableheader2": "تاريخ الفاتورة",
+  "payment.billing.tableheader3": "اسم الخطة",
+  "payment.billing.tableheader4": "كمية",
+  "payment.billing.tableheader5": "حالة",
+  "payment.billing.tableheader6": "فعل"
+}

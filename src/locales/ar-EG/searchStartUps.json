@@ -1,0 +1,13 @@
+{
+  "searchStartUps.addFilters.button.text": "إضافة تصنيفات",
+  "searchStartUps.page.heading": "إظهار نتائح بخصوص:",
+  "searchStartUps.page.heading.firstKey": "اسم الشركة",
+  "searchStartUps.page.heading.secondKey": "كلمات مفتاحية",
+  "searchStartUps.table.header.column1": "اسم الشركة الناشئة",
+  "searchStartUps.table.header.column2": "البلد",
+  "searchStartUps.table.header.column3": "المدينة",
+  "searchStartUps.table.header.column4": "عدد الموظفين",
+  "searchStartUps.table.header.column5": "التمويل الأخير",
+  "searchStartUps.table.header.column6": "موقع إلكتروني",
+  "searchStartUps.table.header.column7": "تأسست في"
+}

@@ -1,0 +1,25 @@
+{
+  "allMandate.mandate.card.content.text3": "This mandate is not yet launched.",
+  "allMandate.mandate.card.content.rejected": "This mandate is rejected.",
+  "allMandate.mandate.card.content.text2": "This mandate is closed.",
+  "allMandate.mandate.card.content.text1": "Promote your mandate",
+  "allMandate.mandate.card.content.closingDate": "Mandate Closing Date",
+  "allMandate.mandate.card.content.startingDate": "Mandate Starting Date",
+  "allMandate.mandate.status.label6": "CLOSED",
+  "allMandate.mandate.status.label5": "INCOMPLETE",
+  "allMandate.mandate.status.label4": "PENDING APPROVAL",
+  "allMandate.mandate.status.label3": "CLOSED",
+  "allMandate.mandate.status.label2": "OPEN",
+  "allMandate.mandate.status.label1": "REJECTED",
+  "allMandate.filter.label2": "Status",
+  "allMandate.filter.label1": "Country",
+  "allMandate.mandate.top.label5": "Incomplete",
+  "allMandate.mandate.top.label4": "Approvals pending",
+  "allMandate.mandate.top.label3": "Closed",
+  "allMandate.mandate.top.label2": "Open",
+  "allMandate.mandate.top.label1": "Rejected",
+
+  "allMandate.mandate.filter.alltechno": "All Technology",
+  "allMandate.mandate.filter.allcountry": "All Country",
+  "allMandate.mandate.filter.allstatus": "All Status"
+}

@@ -1,0 +1,104 @@
+.heading {
+  font-weight: 600 !important;
+}
+
+.inputField {
+  margin-top: 10px;
+  color: #6d6d6d !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+}
+
+.normalText {
+  font-weight: 400 !important;
+  margin-top: 10px !important;
+}
+.error {
+  color: red;
+}
+.inputExternal {
+  display: flex;
+  flex-direction: column;
+}
+
+.overviewExternal {
+  display: flex;
+  margin-top: 10px;
+  width: 100%;
+  gap: 1rem;
+  /* border: 1px solid; */
+}
+.formExternal {
+  width: 70%;
+}
+.imageExternal {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 30%;
+}
+.buttonExternal {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+
+  align-items: center;
+}
+
+.nextButton {
+  margin-top: 20px !important;
+  font-weight: 600 !important;
+  padding: 10px;
+  color: rgba(138, 21, 56, 1) !important;
+  border-radius: 8px;
+  text-align: center;
+  background-color: rgba(138, 21, 56, 0.23) !important;
+}
+
+.verifyLabel {
+  color: rgba(138, 21, 56, 1);
+  font-weight: 600 !important;
+  background-color: rgba(138, 21, 56, 0.23) !important;
+  height: 32px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.error {
+  color: red;
+}
+
+.colorOfDate {
+  color: rgba(138, 21, 56, 1) !important;
+  font-weight: 600 !important;
+}
+
+.backButtonColor {
+  color: rgba(134, 134, 134, 1);
+  cursor: pointer;
+  font-weight: 500 !important;
+}
+
+.mandateHeading {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(16, 24, 40, 1);
+}
+
+.mandateTitle {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+}
+
+@media screen and (max-width: 800px) {
+  .overviewExternal {
+    flex-direction: column-reverse;
+  }
+  .imageExternal {
+    width: 100%;
+    align-items: baseline;
+  }
+}

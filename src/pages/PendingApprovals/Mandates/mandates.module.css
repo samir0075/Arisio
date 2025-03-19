@@ -1,0 +1,199 @@
+.mandateExternal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around !important;
+  min-height: calc(100vh - 85px);
+  background-color: rgba(230, 183, 197, 0.15);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.outerHeading {
+  font-size: 36px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+  padding-bottom: 10px;
+}
+.mandateOuter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90vw;
+}
+.mandateTitle {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: #0d4261;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.mandateSubTitle {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif;
+  color: #000000;
+}
+.mandatePoints {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1);
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.dateColor {
+  margin-top: 5px !important;
+
+  /* color: rgba(134, 134, 134, 1); */
+}
+
+.detailsDateColor {
+  color: rgba(69, 71, 72, 1);
+  padding-left: 15px;
+}
+
+.description {
+  color: rgba(69, 71, 72, 1);
+  font-weight: 300 !important;
+}
+
+.detailsSubHeading {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(134, 134, 134, 1);
+  margin-top: 10px !important;
+}
+.mandatesButton {
+  margin-top: 20px !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(108, 25, 62, 1) !important;
+  background-color: rgba(138, 21, 56, 0.15) !important;
+}
+
+.cardInternal {
+  max-width: 375px;
+  padding: 20px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.mandateStatus {
+  color: #fff;
+  max-width: 100px;
+  margin: 5px;
+  text-align: center;
+  position: absolute;
+}
+
+.backButton {
+  margin-left: 10px !important;
+}
+
+.backButtonColor {
+  color: rgba(134, 134, 134, 1);
+  cursor: pointer;
+  font-weight: 500 !important;
+}
+
+.mandateDetailsOuter {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.nextButton {
+  margin-top: 20px !important;
+  font-weight: 600 !important;
+  padding: 10px;
+  color: rgba(138, 21, 56, 1) !important;
+  border-radius: 8px;
+  text-align: center;
+  background-color: rgba(138, 21, 56, 0.23) !important;
+}
+
+.heading {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(16, 24, 40, 1);
+  margin-top: 20px !important;
+}
+.mandateHeading {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  font-family: Inter, sans-serif;
+  color: rgba(16, 24, 40, 1);
+}
+/* .techOuter {
+  padding-top: 10px;
+} */
+.technologies {
+  font-weight: 600 !important;
+  color: rgba(138, 21, 56, 1);
+}
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.colorOfDate {
+  /* color: rgba(138, 21, 56, 1) !important; */
+  font-size: 0.8rem;
+  font-weight: 600 !important;
+}
+.PitchStatusExternal {
+  border: 1px solid #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 #d0d0d0;
+  margin-top: 20px;
+  padding: 20px;
+}
+.statusMsg {
+  color: #39b54a;
+  font-weight: 600 !important;
+  margin-left: 15px !important;
+}
+
+.inputField {
+  margin-top: 10px;
+  color: #6d6d6d !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: Inter, sans-serif !important;
+}
+
+.approveButton {
+  box-shadow: 0 2px 4px 0 #39b54a;
+  transition: 0.3s;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.rejectButton {
+  box-shadow: 0 2px 4px 0 red;
+  transition: 0.3s;
+  background-color: #ffffff;
+  cursor: pointer;
+  margin-right: 20px !important;
+}
+
+@media screen and (max-width: 800px) {
+  .mandateOuter {
+    flex-direction: column !important;
+    margin-top: 20px;
+  }
+
+  .outerHeading {
+    margin-top: 20px !important;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mainTitle.ideaSearch": "قم بوصف فكرتك",
+  "describing.keywordTitle.ideaSearch": "أدخل الكلمات الرئيسية التي تصف منتج/خدمة شركتك الناشئة",
+  "helperText.searchExample.ideaSearch": "مثال: مجمع الخدمات اللوجستية أو تطبيق توصيل الطعام ",
+  "tabs.startup.ideaSearch": "الشركات الناشئة",
+  "tabs.news.ideaSearch": "أخبار",
+  "tabs.presentations.ideaSearch": "العروض التقديمية",
+  "tabs.videos.ideaSearch": "أشرطة فيديو",
+  "tabs.patents.ideaSearch": "براءات الاختراع",
+  "tabs.researchPapers.ideaSearch": "الأوراق البحثية",
+  "noData.message.ideaSearch": "لايوجد بيانات"
+}

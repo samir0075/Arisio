@@ -1,0 +1,8 @@
+{
+  "quickQuestionsForm.step3.card.heading": "Don't bother asking the name, or the location, or the description of the startup or contact details or the profile of the team. We get them anyway",
+  "quickQuestionsForm.step3.form.textField.placeholder": "Create your question",
+  "quickQuestionsForm.step3.form.textField.helperText": "Question must be between 4 and 150 characters long",
+  "quickQuestionsForm.step3.form.textField.helperText.maxQuestion": "Max 5 Questions are allowed",
+  "quickQuestionsForm.step3.card.submit.button.add": "Add",
+  "quickQuestionsForm.step3.card.submit.button.update": "Update"
+}

@@ -1,0 +1,34 @@
+{
+  "news.allNews": "كل الأخبار",
+  "news.ownNews": "يضف أخبار",
+  "news.addNews": "قدِّم أخبار",
+  "news.card.pendingStatus": "ريثما",
+  "news.card.approvedStatus": "موافقة",
+  "news.card.rejectStatus": "مرفوض",
+  "news.noData": "لا توجد أخبار للعرض",
+  "news.button.backToNews": "العودة إلى الأخبار",
+
+  "detailNews.category": "فئة :",
+  "detailNews.country": "دولة :",
+
+  "detailNews.heading.recentNews": "الأخبار الأخيرة",
+
+  "addnews.updateNews": "تحديث الأخبار",
+  "addnews.feild.heading": "عنوان",
+  "addnews.field.newsImage": "صورة الأخبار",
+  "addnews.field.newsImage.tagLine": "سيتم عرض هذا على محتوى الأخبار",
+  "addnews.field.uploadImage.button": "تحميل الصورة",
+  "addnews.field.newsType": "نوع الخبر",
+  "addnews.field.Country": "دولة",
+  "addnews.filter.Country": "كل البلاد",
+  "addnews.button.readmore": "اقرأ المزيد",
+
+  "addnews.placeholder.Country": "اختر البلد",
+  "addnews.placeholder.heading": "عناوين الأخبار",
+  "addnews.placeholder.newtype": "اختر نوع الخبر",
+  "addnews.placeholder.desc": "وصف الأخبار",
+
+  "addnews.field.description": "وصف",
+  "addnews.field.description.tagLine": "اكتب مقدمة قصيرة عن الأخبار",
+  "addnews.waring.tagLine": "سيتم حذف أخبارك تلقائيًا بعد 3 أيام من إنشائها"
+}

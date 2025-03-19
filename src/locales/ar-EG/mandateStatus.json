@@ -1,0 +1,11 @@
+{
+  "mandateStatus.card.form.label2": "تمديد التاريخ",
+  "mandateStatus.card.form.label1.option2": "مفتوح",
+  "mandateStatus.card.form.label1.option1": "مغلق",
+  "mandateStatus.card.content.heading2": "تاريخ إغلاق التذكرة الاستثمارية:",
+  "mandateStatus.card.content.heading1": "تاريخ بدء التذكرة الاستثمارية:",
+  "mandateStatus.back.button.text": "الرجوع للتذاكر الاستثمارية",
+  "mandateStatus.card.content.heading3": "إدارة تذكرة استثمارية",
+  "mandateStatus.card.detail.heading": "تفاصيل التفويض",
+  "mandateStatus.card.detail.name": "اسم :"
+}

@@ -1,0 +1,10 @@
+{
+  "addFilterModal.card.submit.button.text": "تطبيق المرشحات",
+  "addFilterModal.card.select.startUp.placeholder": "حدد مرحلة بدء التشغيل",
+  "addFilterModal.card.startUp.label": "مرحلة الشركة الناشئة",
+  "addFilterModal.card.select.technology.placeholder": "اختر التكنولوجيا الخاصة بك",
+  "addFilterModal.card.technology.label": "تكنولوجيا",
+  "addFilterModal.card.select.country.placeholder": "اختر بلدك",
+  "addFilterModal.card.country.label": "دولة",
+  "addFilterModal.card.heading": "البحث عن طريق مرشح الشركات"
+}
